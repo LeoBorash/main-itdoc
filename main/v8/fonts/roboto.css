@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin'), local('Roboto-Thin'), url('http://v8.viamir.com.ua/fonts/robotothin.woff2') format('woff2'), url('http://v8.viamir.com.ua/fonts/robotothin.woff') format('woff'), url('http://v8.viamir.com.ua/fonts/robotothin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url('http://v8.viamir.com.ua/fonts/robotothinitalic.woff2') format('woff2'), url('http://v8.viamir.com.ua/fonts/robotothinitalic.woff') format('woff'), url('http://v8.viamir.com.ua/fonts/robotothinitalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light'), local('Roboto-Light'), url('http://v8.viamir.com.ua/fonts/robotolight.woff2') format('woff2'), url('http://v8.viamir.com.ua/fonts/robotolight.woff') format('woff'), url('http://v8.viamir.com.ua/fonts/robotolight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url('http://v8.viamir.com.ua/fonts/robotolightitalic.woff2') format('woff2'), url('http://v8.viamir.com.ua/fonts/robotolightitalic.woff') format('woff'), url('http://v8.viamir.com.ua/fonts/robotolightitalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto'), local('Roboto-Regular'), url('http://v8.viamir.com.ua/fonts/roboto.woff2') format('woff2'), url('http://v8.viamir.com.ua/fonts/roboto.woff') format('woff'), url('http://v8.viamir.com.ua/fonts/roboto.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Italic'), local('Roboto-Italic'), url('http://v8.viamir.com.ua/fonts/robotoitalic.woff2') format('woff2'), url('http://v8.viamir.com.ua/fonts/robotoitalic.woff') format('woff'), url('http://v8.viamir.com.ua/fonts/robotoitalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium'), local('Roboto-Medium'), url('http://v8.viamir.com.ua/fonts/robotomedium.woff2') format('woff2'), url('http://v8.viamir.com.ua/fonts/robotomedium.woff') format('woff'), url('http://v8.viamir.com.ua/fonts/robotomedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url('http://v8.viamir.com.ua/fonts/robotomediumitalic.woff2') format('woff2'), url('http://v8.viamir.com.ua/fonts/robotomediumitalic.woff') format('woff'), url('http://v8.viamir.com.ua/fonts/robotomediumitalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold'), local('Roboto-Bold'), url('http://v8.viamir.com.ua/fonts/robotobold.woff2') format('woff2'), url('http://v8.viamir.com.ua/fonts/robotobold.woff') format('woff'), url('http://v8.viamir.com.ua/fonts/robotobold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url('http://v8.viamir.com.ua/fonts/robotobolditalic.woff2') format('woff2'), url('http://v8.viamir.com.ua/fonts/robotobolditalic.woff') format('woff'), url('http://v8.viamir.com.ua/fonts/robotobolditalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black'), local('Roboto-Black'), url('http://v8.viamir.com.ua/fonts/robotoblack.woff2') format('woff2'), url('http://v8.viamir.com.ua/fonts/robotoblack.woff') format('woff'), url('http://v8.viamir.com.ua/fonts/robotoblack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url('http://v8.viamir.com.ua/fonts/robotoblackitalic.woff2') format('woff2'), url('http://v8.viamir.com.ua/fonts/robotoblackitalic.woff') format('woff'), url('http://v8.viamir.com.ua/fonts/robotoblackitalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}

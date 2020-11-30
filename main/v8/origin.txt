@@ -1,0 +1,184 @@
+Uri: https://v8.deti-na-kolesah.ru/
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\index.htm
+Content Type: text/html
+
+Uri: https://v8.deti-na-kolesah.ru/favicon.ico
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://v8.deti-na-kolesah.ru/css/reset.css
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\css\reset.css
+Content Type: text/css
+
+Uri: https://v8.deti-na-kolesah.ru/css/owl.carousel.min.css
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://v8.deti-na-kolesah.ru/css/styles.css
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\css\styles.css
+Content Type: text/css
+
+Uri: https://v8.deti-na-kolesah.ru/fonts/roboto.css
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\fonts\roboto.css
+Content Type: text/css
+
+Uri: https://v8.deti-na-kolesah.ru/index.html
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\index.html
+Content Type: text/html
+
+Uri: https://v8.deti-na-kolesah.ru/politics.html
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\politics.html
+Content Type: text/html
+
+Uri: https://v8.deti-na-kolesah.ru/img/banner.png
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\banner.png
+Content Type: image/png
+
+Uri: https://v8.deti-na-kolesah.ru/img/d1.jpg
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\d1.jpg
+Content Type: image/jpeg
+
+Uri: https://v8.deti-na-kolesah.ru/img/d2.jpg
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\d2.jpg
+Content Type: image/jpeg
+
+Uri: https://v8.deti-na-kolesah.ru/img/slider__image0.jpg
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\slider__image0.jpg
+Content Type: image/jpeg
+
+Uri: https://v8.deti-na-kolesah.ru/img/slider__image4.jpg
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\slider__image4.jpg
+Content Type: image/jpeg
+
+Uri: https://v8.deti-na-kolesah.ru/img/slider__image5.jpg
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\slider__image5.jpg
+Content Type: image/jpeg
+
+Uri: https://v8.deti-na-kolesah.ru/img/slider__image6.jpg
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\slider__image6.jpg
+Content Type: image/jpeg
+
+Uri: https://v8.deti-na-kolesah.ru/img/slider__image7.jpg
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\slider__image7.jpg
+Content Type: image/jpeg
+
+Uri: https://v8.deti-na-kolesah.ru/img/slider__image8.jpg
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\slider__image8.jpg
+Content Type: image/jpeg
+
+Uri: https://v8.deti-na-kolesah.ru/img/slider__image9.jpg
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\slider__image9.jpg
+Content Type: image/jpeg
+
+Uri: https://v8.deti-na-kolesah.ru/img/slider__image1.jpg
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\slider__image1.jpg
+Content Type: image/jpeg
+
+Uri: https://v8.deti-na-kolesah.ru/img/slider__image2.jpg
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\slider__image2.jpg
+Content Type: image/jpeg
+
+Uri: https://v8.deti-na-kolesah.ru/img/slider__image3.jpg
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\slider__image3.jpg
+Content Type: image/jpeg
+
+Uri: https://v8.deti-na-kolesah.ru/img/slider__image3_1.jpg
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\slider__image3_1.jpg
+Content Type: image/jpeg
+
+Uri: https://v8.deti-na-kolesah.ru/img/slider__image3_2.jpg
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\slider__image3_2.jpg
+Content Type: image/jpeg
+
+Uri: https://v8.deti-na-kolesah.ru/img/reviews__review1_avatar.jpg
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\reviews__review1_avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://v8.deti-na-kolesah.ru/img/reviews__review3_avatar.jpg
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\reviews__review3_avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://v8.deti-na-kolesah.ru/img/reviews__review2_avatar.jpg
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\reviews__review2_avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://v8.deti-na-kolesah.ru/img/order_steps__step1_icon.png
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\order_steps__step1_icon.png
+Content Type: image/png
+
+Uri: https://v8.deti-na-kolesah.ru/img/order_steps__step2_icon.png
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\order_steps__step2_icon.png
+Content Type: image/png
+
+Uri: https://v8.deti-na-kolesah.ru/img/order_steps__step3_icon.png
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\order_steps__step3_icon.png
+Content Type: image/png
+
+Uri: https://v8.deti-na-kolesah.ru/img/order_steps__step4_icon.png
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\order_steps__step4_icon.png
+Content Type: image/png
+
+Uri: https://v8.deti-na-kolesah.ru/js/jquery-3.3.1.min.js
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\js\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://v8.deti-na-kolesah.ru/js/detect.js
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\js\detect.js
+Content Type: application/javascript
+
+Uri: https://v8.deti-na-kolesah.ru/js/previewYouTube.js
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\js\previewYouTube.js
+Content Type: application/javascript
+
+Uri: https://v8.deti-na-kolesah.ru/js/owl.carousel.min.js
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://v8.deti-na-kolesah.ru/js/jquery.cookie.js
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\js\jquery.cookie.js
+Content Type: application/javascript
+
+Uri: https://v8.deti-na-kolesah.ru/js/scripts.js
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://v8.deti-na-kolesah.ru/fonts/Montserrat-Regular.woff2
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\fonts\Montserrat-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://v8.deti-na-kolesah.ru/fonts/Montserrat-Bold.woff2
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\fonts\Montserrat-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://v8.deti-na-kolesah.ru/img/separator_red.png
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\separator_red.png
+Content Type: image/png
+
+Uri: https://v8.deti-na-kolesah.ru/img/offer2__discount_bg.png
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\offer2__discount_bg.png
+Content Type: image/png
+
+Uri: https://v8.deti-na-kolesah.ru/img/offer__name_icon.png
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\offer__name_icon.png
+Content Type: image/png
+
+Uri: https://v8.deti-na-kolesah.ru/img/offer__phone_icon.png
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\offer__phone_icon.png
+Content Type: image/png
+
+Uri: https://v8.deti-na-kolesah.ru/img/slider__arrows.png
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\slider__arrows.png
+Content Type: image/png
+
+Uri: https://v8.deti-na-kolesah.ru/img/bg_light.jpg
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\bg_light.jpg
+Content Type: image/jpeg
+
+Uri: https://v8.deti-na-kolesah.ru/img/quote1_icon.png
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\quote1_icon.png
+Content Type: image/png
+
+Uri: https://v8.deti-na-kolesah.ru/img/reviews3__stars.png
+File Name: c:\Downloaded Web Sites\v8.deti-na-kolesah.ru\img\reviews3__stars.png
+Content Type: image/png
+

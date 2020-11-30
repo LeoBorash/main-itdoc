@@ -1,0 +1,252 @@
+Uri: https://art-kids-dacha.ru/
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\index.htm
+Content Type: text/html
+
+Uri: https://art-kids-dacha.ru/images/shadow.jpg
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\shadow.jpg
+Content Type: image/jpeg
+
+Uri: https://art-kids-dacha.ru/favicon.ico
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://art-kids-dacha.ru/css/reset.css
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\css\reset.css
+Content Type: text/css
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/OpenSans.css
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\OpenSans.css
+Content Type: text/css
+
+Uri: https://art-kids-dacha.ru/js/slider/owlCarousel-2.2.1/owl.carousel.min.css
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\js\slider\owlCarousel-2.2.1\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://art-kids-dacha.ru/css/styles.css
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\css\styles.css
+Content Type: text/css
+
+Uri: https://art-kids-dacha.ru/politics.html
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\politics.html
+Content Type: text/html
+
+Uri: https://art-kids-dacha.ru/images/h1.png
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\h1.png
+Content Type: image/png
+
+Uri: https://art-kids-dacha.ru/images/about__image.jpg
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\about__image.jpg
+Content Type: image/jpeg
+
+Uri: https://art-kids-dacha.ru/images/benefits__benefit1_image.jpg
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\benefits__benefit1_image.jpg
+Content Type: image/jpeg
+
+Uri: https://art-kids-dacha.ru/images/benefits__benefit2_image.gif
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\benefits__benefit2_image.gif
+Content Type: image/gif
+
+Uri: https://art-kids-dacha.ru/images/benefits__benefit3_image.jpg
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\benefits__benefit3_image.jpg
+Content Type: image/jpeg
+
+Uri: https://art-kids-dacha.ru/images/benefits__benefit4_image.jpg
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\benefits__benefit4_image.jpg
+Content Type: image/jpeg
+
+Uri: https://art-kids-dacha.ru/images/application1_image.jpg
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\application1_image.jpg
+Content Type: image/jpeg
+
+Uri: https://art-kids-dacha.ru/images/application2_image.jpg
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\application2_image.jpg
+Content Type: image/jpeg
+
+Uri: https://art-kids-dacha.ru/images/application3_image.jpg
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\application3_image.jpg
+Content Type: image/jpeg
+
+Uri: https://art-kids-dacha.ru/images/application4_image.jpg
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\application4_image.jpg
+Content Type: image/jpeg
+
+Uri: https://art-kids-dacha.ru/images/application5_image.jpg
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\application5_image.jpg
+Content Type: image/jpeg
+
+Uri: https://art-kids-dacha.ru/images/application6_image.jpg
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\application6_image.jpg
+Content Type: image/jpeg
+
+Uri: https://art-kids-dacha.ru/images/reviews__review1_photo.jpg
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\reviews__review1_photo.jpg
+Content Type: image/jpeg
+
+Uri: https://art-kids-dacha.ru/images/reviews__review2_photo.jpg
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\reviews__review2_photo.jpg
+Content Type: image/jpeg
+
+Uri: https://art-kids-dacha.ru/images/reviews__review3_photo.jpg
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\reviews__review3_photo.jpg
+Content Type: image/jpeg
+
+Uri: https://art-kids-dacha.ru/images/guranty1.png
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\guranty1.png
+Content Type: image/png
+
+Uri: https://art-kids-dacha.ru/images/guranty2.png
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\guranty2.png
+Content Type: image/png
+
+Uri: https://art-kids-dacha.ru/images/order_info__info1_image.jpg
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\order_info__info1_image.jpg
+Content Type: image/jpeg
+
+Uri: https://art-kids-dacha.ru/images/order_info__info2_image.jpg
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\order_info__info2_image.jpg
+Content Type: image/jpeg
+
+Uri: https://art-kids-dacha.ru/images/ip.png
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\ip.png
+Content Type: image/png
+
+Uri: https://art-kids-dacha.ru/js/jquery.js
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://art-kids-dacha.ru/js/slider/owlCarousel-2.2.1/owl.carousel.min.js
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\js\slider\owlCarousel-2.2.1\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://art-kids-dacha.ru/js/scripts.js
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\js\scripts.js
+Content Type: application/x-javascript
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans-Light.woff2
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans-Light.woff2
+Content Type: application/font-woff2
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans-Light.woff
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans-Light.woff
+Content Type: application/font-woff
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans-Light.ttf
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans-Light.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans.woff2
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans.woff2
+Content Type: application/font-woff2
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans.woff
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans.woff
+Content Type: application/font-woff
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans.ttf
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans-Italic.woff2
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans-Italic.woff2
+Content Type: application/font-woff2
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans-Italic.woff
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans-Italic.woff
+Content Type: application/font-woff
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans-Italic.ttf
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans-Italic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans-Semibold.woff2
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans-Semibold.woff2
+Content Type: application/font-woff2
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans-Semibold.woff
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans-Semibold.woff
+Content Type: application/font-woff
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans-Semibold.ttf
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans-Semibold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans-SemiboldItalic.woff2
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans-SemiboldItalic.woff2
+Content Type: application/font-woff2
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans-SemiboldItalic.woff
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans-SemiboldItalic.woff
+Content Type: application/font-woff
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans-SemiboldItalic.ttf
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans-SemiboldItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans-Bold.woff2
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans-Bold.woff2
+Content Type: application/font-woff2
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans-Bold.woff
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans-Bold.ttf
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans-Extrabold.woff2
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans-Extrabold.woff2
+Content Type: application/font-woff2
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans-Extrabold.woff
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans-Extrabold.woff
+Content Type: application/font-woff
+
+Uri: https://art-kids-dacha.ru/fonts/OpenSans/subset-OpenSans-Extrabold.ttf
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\fonts\OpenSans\subset-OpenSans-Extrabold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://art-kids-dacha.ru/js/slider/owlCarousel-2.2.1/owl.video.play.png
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\js\slider\owlCarousel-2.2.1\owl.video.play.png
+Content Type: image/png
+
+Uri: https://art-kids-dacha.ru/images/button__shadow.png
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\button__shadow.png
+Content Type: image/png
+
+Uri: https://art-kids-dacha.ru/images/offer_bg.jpg
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\offer_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://art-kids-dacha.ru/images/offer2__discount_bg.png
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\offer2__discount_bg.png
+Content Type: image/png
+
+Uri: https://art-kids-dacha.ru/images/offer__products_count_icon.png
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\offer__products_count_icon.png
+Content Type: image/png
+
+Uri: https://art-kids-dacha.ru/images/offer__name_icon.png
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\offer__name_icon.png
+Content Type: image/png
+
+Uri: https://art-kids-dacha.ru/images/offer__phone_icon.png
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\offer__phone_icon.png
+Content Type: image/png
+
+Uri: https://art-kids-dacha.ru/images/offer__price_shadow.png
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\offer__price_shadow.png
+Content Type: image/png
+
+Uri: https://art-kids-dacha.ru/images/slider__arrows.jpg
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\slider__arrows.jpg
+Content Type: image/jpeg
+
+Uri: https://art-kids-dacha.ru/images/characteristics__arrow.png
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\characteristics__arrow.png
+Content Type: image/png
+
+Uri: https://art-kids-dacha.ru/images/reviews__arrows.png
+File Name: c:\Downloaded Web Sites\art-kids-dacha.ru\images\reviews__arrows.png
+Content Type: image/png
+

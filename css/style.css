@@ -1,0 +1,35 @@
+input,
+textarea {
+  margin-bottom: 5px;
+}
+.top-div {
+  margin: 10px 10px 10px 20px;
+}
+.top-div > a {
+  padding: 6px 15px;
+  border-radius: 6px;
+  background-color: coral;
+  font-size: 15px;
+  color: black;
+  float: left;
+}
+.forma > input {
+  border-radius: 5px;
+  padding-top: 1px;
+  padding-bottom: 6px;
+  margin-left: 100px;
+  margin-top: 1px;
+}
+.forma > button {
+  border-radius: 5px;
+  padding-top: 1px;
+  padding-bottom: 6px;
+  background-color: lightblue;
+}
+.block {
+  height: 495px;
+  border: 1px solid #e0e4e8;
+  border-radius: 2px;
+  margin-top: 85px;
+  margin-bottom: 7px;
+}

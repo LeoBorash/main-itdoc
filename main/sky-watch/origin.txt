@@ -1,0 +1,256 @@
+Uri: http://ameliespb.ru/
+File Name: c:\Downloaded Web Sites\ameliespb.ru\index.htm
+Content Type: text/html
+
+Uri: http://ameliespb.ru/favicon.png
+File Name: c:\Downloaded Web Sites\ameliespb.ru\favicon.png
+Content Type: image/png
+
+Uri: http://ameliespb.ru/css/reset.css
+File Name: c:\Downloaded Web Sites\ameliespb.ru\css\reset.css
+Content Type: text/css
+
+Uri: http://ameliespb.ru/fonts/Montserrat/Montserrat.css
+File Name: c:\Downloaded Web Sites\ameliespb.ru\fonts\Montserrat\Montserrat.css
+Content Type: text/css
+
+Uri: http://ameliespb.ru/css/styles.css
+File Name: c:\Downloaded Web Sites\ameliespb.ru\css\styles.css
+Content Type: text/css
+
+Uri: http://ameliespb.ru/politics.html
+File Name: c:\Downloaded Web Sites\ameliespb.ru\politics.html
+Content Type: text/html
+
+Uri: http://ameliespb.ru/images/offer3__image.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\offer3__image.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/offer3__benefit1_image.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\offer3__benefit1_image.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/offer3__benefit2_image.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\offer3__benefit2_image.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/offer3__benefit3_image.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\offer3__benefit3_image.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/description__image1.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\description__image1.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/description__image2.gif
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\description__image2.gif
+Content Type: image/gif
+
+Uri: http://ameliespb.ru/images/description__image6.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\description__image6.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/description__image3.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\description__image3.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/description__image4.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\description__image4.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/present.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\present.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/present2.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\present2.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/description__image7.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\description__image7.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/description__image5.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\description__image5.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/review1.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\review1.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/review2.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\review2.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/review3.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\review3.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/review4.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\review4.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/review5.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\review5.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/review6.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\review6.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/review7.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\review7.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/review8.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\review8.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/order_steps__step1_icon.png
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\order_steps__step1_icon.png
+Content Type: image/png
+
+Uri: http://ameliespb.ru/images/order_steps__step2_icon.png
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\order_steps__step2_icon.png
+Content Type: image/png
+
+Uri: http://ameliespb.ru/images/order_steps__step3_icon.png
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\order_steps__step3_icon.png
+Content Type: image/png
+
+Uri: http://ameliespb.ru/images/order_steps__step4_icon.png
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\order_steps__step4_icon.png
+Content Type: image/png
+
+Uri: http://ameliespb.ru/images/g1.png
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\g1.png
+Content Type: image/png
+
+Uri: http://ameliespb.ru/images/g2.png
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\g2.png
+Content Type: image/png
+
+Uri: http://ameliespb.ru/images/g3.png
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\g3.png
+Content Type: image/png
+
+Uri: http://ameliespb.ru/js/jquery.js
+File Name: c:\Downloaded Web Sites\ameliespb.ru\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: http://ameliespb.ru/js/scripts.js
+File Name: c:\Downloaded Web Sites\ameliespb.ru\js\scripts.js
+Content Type: application/x-javascript
+
+Uri: http://ameliespb.ru/js/previewYouTube.js
+File Name: c:\Downloaded Web Sites\ameliespb.ru\js\previewYouTube.js
+Content Type: application/x-javascript
+
+Uri: http://ameliespb.ru/fonts/Montserrat/subsetMontserrat Light.woff2
+File Name: c:\Downloaded Web Sites\ameliespb.ru\fonts\Montserrat\subsetMontserrat Light.woff2
+Content Type: application/font-woff2
+
+Uri: http://ameliespb.ru/fonts/Montserrat/subsetMontserrat Light.woff
+File Name: c:\Downloaded Web Sites\ameliespb.ru\fonts\Montserrat\subsetMontserrat Light.woff
+Content Type: application/font-woff
+
+Uri: http://ameliespb.ru/fonts/Montserrat/subsetMontserrat Light.ttf
+File Name: c:\Downloaded Web Sites\ameliespb.ru\fonts\Montserrat\subsetMontserrat Light.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://ameliespb.ru/fonts/Montserrat/subsetMontserrat Regular.woff2
+File Name: c:\Downloaded Web Sites\ameliespb.ru\fonts\Montserrat\subsetMontserrat Regular.woff2
+Content Type: application/font-woff2
+
+Uri: http://ameliespb.ru/fonts/Montserrat/subsetMontserrat Regular.woff
+File Name: c:\Downloaded Web Sites\ameliespb.ru\fonts\Montserrat\subsetMontserrat Regular.woff
+Content Type: application/font-woff
+
+Uri: http://ameliespb.ru/fonts/Montserrat/subsetMontserrat Regular.ttf
+File Name: c:\Downloaded Web Sites\ameliespb.ru\fonts\Montserrat\subsetMontserrat Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://ameliespb.ru/fonts/Montserrat/subsetMontserrat Italic.woff2
+File Name: c:\Downloaded Web Sites\ameliespb.ru\fonts\Montserrat\subsetMontserrat Italic.woff2
+Content Type: application/font-woff2
+
+Uri: http://ameliespb.ru/fonts/Montserrat/subsetMontserrat Italic.woff
+File Name: c:\Downloaded Web Sites\ameliespb.ru\fonts\Montserrat\subsetMontserrat Italic.woff
+Content Type: application/font-woff
+
+Uri: http://ameliespb.ru/fonts/Montserrat/subsetMontserrat Italic.ttf
+File Name: c:\Downloaded Web Sites\ameliespb.ru\fonts\Montserrat\subsetMontserrat Italic.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://ameliespb.ru/fonts/Montserrat/subsetMontserrat Medium.woff2
+File Name: c:\Downloaded Web Sites\ameliespb.ru\fonts\Montserrat\subsetMontserrat Medium.woff2
+Content Type: application/font-woff2
+
+Uri: http://ameliespb.ru/fonts/Montserrat/subsetMontserrat Medium.woff
+File Name: c:\Downloaded Web Sites\ameliespb.ru\fonts\Montserrat\subsetMontserrat Medium.woff
+Content Type: application/font-woff
+
+Uri: http://ameliespb.ru/fonts/Montserrat/subsetMontserrat Medium.ttf
+File Name: c:\Downloaded Web Sites\ameliespb.ru\fonts\Montserrat\subsetMontserrat Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://ameliespb.ru/fonts/Montserrat/subsetMontserrat Bold.woff2
+File Name: c:\Downloaded Web Sites\ameliespb.ru\fonts\Montserrat\subsetMontserrat Bold.woff2
+Content Type: application/font-woff2
+
+Uri: http://ameliespb.ru/fonts/Montserrat/subsetMontserrat Bold.woff
+File Name: c:\Downloaded Web Sites\ameliespb.ru\fonts\Montserrat\subsetMontserrat Bold.woff
+Content Type: application/font-woff
+
+Uri: http://ameliespb.ru/fonts/Montserrat/subsetMontserrat Bold.ttf
+File Name: c:\Downloaded Web Sites\ameliespb.ru\fonts\Montserrat\subsetMontserrat Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://ameliespb.ru/fonts/Montserrat/subsetMontserrat Black.woff2
+File Name: c:\Downloaded Web Sites\ameliespb.ru\fonts\Montserrat\subsetMontserrat Black.woff2
+Content Type: application/font-woff2
+
+Uri: http://ameliespb.ru/fonts/Montserrat/subsetMontserrat Black.woff
+File Name: c:\Downloaded Web Sites\ameliespb.ru\fonts\Montserrat\subsetMontserrat Black.woff
+Content Type: application/font-woff
+
+Uri: http://ameliespb.ru/fonts/Montserrat/subsetMontserrat Black.ttf
+File Name: c:\Downloaded Web Sites\ameliespb.ru\fonts\Montserrat\subsetMontserrat Black.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://ameliespb.ru/images/separator_red.png
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\separator_red.png
+Content Type: image/png
+
+Uri: http://ameliespb.ru/images/separator_white.png
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\separator_white.png
+Content Type: image/png
+
+Uri: http://ameliespb.ru/images/offer3__discount_bg.png
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\offer3__discount_bg.png
+Content Type: image/png
+
+Uri: http://ameliespb.ru/images/offer__name_icon.png
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\offer__name_icon.png
+Content Type: image/png
+
+Uri: http://ameliespb.ru/images/offer__phone_icon.png
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\offer__phone_icon.png
+Content Type: image/png
+
+Uri: http://ameliespb.ru/images/bg_light.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\bg_light.jpg
+Content Type: image/jpeg
+
+Uri: http://ameliespb.ru/images/quote1_icon.png
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\quote1_icon.png
+Content Type: image/png
+
+Uri: http://ameliespb.ru/images/reviews3__stars.png
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\reviews3__stars.png
+Content Type: image/png
+
+Uri: http://ameliespb.ru/images/bg_attention.jpg
+File Name: c:\Downloaded Web Sites\ameliespb.ru\images\bg_attention.jpg
+Content Type: image/jpeg
+
