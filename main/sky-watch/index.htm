@@ -290,9 +290,11 @@
 					</div>
 				</div>
 			</div>
-			<form id="order_form" class="order_form" action="send.php" method="post">
-				<input class="field" type="text" name="fio" placeholder="Введите ваше имя" required="">
-				<input class="field" type="tel" name="email" placeholder="Введите ваш телефон" required="">
+			<form id="order_form" class="order_form" action="../add.php" method="post">
+				<input class="field" type="text" name="name" placeholder="Введите имя" required="">
+				<input class="field" type="tel" name="phone" placeholder="Введите телефон" required="">
+				<input type="hidden" name="client_product" value="Sky+Port+Fit">
+				<input type="hidden" name="client_price" value="9990">
 				<button class="button">Оформить заказ</button>
 			</form>
 			<div class="products_count">Осталось <b>13</b> штук по акции</div>
@@ -335,9 +337,8 @@
         </style>
         <div class="wrapp">
             <div class="flex">
-                <p>ИП Престиж</p>
-                <p>ул. Розыбакиева 244, Алматы</p>
-              <p>ИНН 540703402076</p>
+                <p>ТОО Smart Market</p>
+                <p>мкр Нуркент, Алматы</p>
                 <!--<p>ИНН 540703402076</p>
                 <p>СОР 6003 №0014344</p>-->
             </div>
