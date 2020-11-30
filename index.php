@@ -40,7 +40,7 @@
 
         <div class="col-12 text-center">
             <a href="https://wa.me/77711367976" class="btn btn-success col-md-6 font-weight-bold">
-                <i class="fab fa-whatsapp"></i> Наш WhatsAppD</a>
+                <i class="fab fa-whatsapp"></i> Наш WhatsApp</a>
         </div>
 
         <div class="col-12 text-center">
